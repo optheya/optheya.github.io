@@ -1,0 +1,30 @@
+{
+  "name": "optheya.github.io",
+  "version": "1.0.0",
+  "description": "optheya webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optheya/optheya.github.io.git"
+  },
+  "keywords": [
+    "realidade",
+    "RA",
+    "IA",
+    "food",
+    "enterprise"
+  ],
+  "author": "Guilherme Berson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/optheya/optheya.github.io/issues"
+  },
+  "homepage": "https://github.com/optheya/optheya.github.io#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
