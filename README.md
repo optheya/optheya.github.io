@@ -1,1 +1,5 @@
-# optheya.github.io
+# Optheya
+
+## Run Sass
+
+npm run scss
