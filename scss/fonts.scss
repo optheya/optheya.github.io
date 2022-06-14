@@ -2,12 +2,12 @@
     @font-face {
       font-family: $font-family;
       src: 
-           url($font-file);
+           url($font-file) format("opentype");
     }
 }
 
-@include font('ActayCondensed-Thin', '/fonts/ActayCondensed-Thin.otf');
-@include font('Geon', '/fonts/Geon.otf');
-@include font('HCGleam-Reg', '/fonts/HCGleam-Reg.otf');
-@include font('Kurye-Light', '/fonts/Kurye-Light.otf');
-@include font('Kurye-LightItali', '/fonts/Kurye-LightItalic.otf');
+@include font('ActayCondensed-Thin', '../fonts/ActayCondensed-Thin.otf');
+@include font('Geon', '../fonts/Geon.otf');
+@include font('HCGleam-Reg', '../fonts/HCGleam-Reg.otf');
+@include font('Kurye-Light', '../fonts/Kurye-Light.otf');
+@include font('Kurye-LightItali', '../fonts/Kurye-LightItalic.otf');

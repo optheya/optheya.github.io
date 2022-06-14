@@ -1,19 +1,19 @@
 @font-face {
   font-family: "ActayCondensed-Thin";
-  src: url("/fonts/ActayCondensed-Thin.otf"); }
+  src: url("../fonts/ActayCondensed-Thin.otf") format("opentype"); }
 
 @font-face {
   font-family: "Geon";
-  src: url("/fonts/Geon.otf"); }
+  src: url("../fonts/Geon.otf") format("opentype"); }
 
 @font-face {
   font-family: "HCGleam-Reg";
-  src: url("/fonts/HCGleam-Reg.otf"); }
+  src: url("../fonts/HCGleam-Reg.otf") format("opentype"); }
 
 @font-face {
   font-family: "Kurye-Light";
-  src: url("/fonts/Kurye-Light.otf"); }
+  src: url("../fonts/Kurye-Light.otf") format("opentype"); }
 
 @font-face {
   font-family: "Kurye-LightItali";
-  src: url("/fonts/Kurye-LightItalic.otf"); }
+  src: url("../fonts/Kurye-LightItalic.otf") format("opentype"); }
